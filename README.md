@@ -52,7 +52,7 @@ The objective of this application is to analyze sleeping patterns and estimate s
 3. **Run the Streamlit app**
 
    ```bash
-   streamlit run main.py
+   streamlit run filename.py
    ```
 
 ---
